@@ -34,6 +34,8 @@ This is an Express JS Note Taker application that allows the user to save, delet
 
 ## Deployment
 
+[link](https://lonj214.github.io/note-taker-express/)
+
 ## License
 
 MIT liscense
